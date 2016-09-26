@@ -7,6 +7,12 @@ header h1 img {
   height: 15%;
 }
 
+h4 {
+  text-align: left;
+}
+
+.clear { clear:both; display:block; overflow:hidden; visibility:hidden; height:0px;}
+
 
 body {
   width: 100%;
